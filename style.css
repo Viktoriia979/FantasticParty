@@ -1,0 +1,30 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    background-color: lightblue;
+    color:black;
+    border:solid blue 2px;
+    border-radius: 2px;
+}
+
+nav {
+    background-color: lightblue;
+    border-radius: 2px;
+    border:solid blue 2px;
+    
+
+}
+
+h1 {
+    background-color: lightblue;
+    color:rgb(110, 11, 110);
+    text-align: center;
+}
+
+footer p {
+    border: solid rgb(110, 11, 110) 10px;
+    padding:5px;
+    margin: 0px
+}
